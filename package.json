@@ -1,0 +1,22 @@
+{
+  "name": "@thesunny/log",
+  "version": "1.0.0",
+  "description": "Deep logging that works in browser and node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thesunny/log.git"
+  },
+  "keywords": [
+    "log"
+  ],
+  "author": "Sunny Hirai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thesunny/log/issues"
+  },
+  "homepage": "https://github.com/thesunny/log#readme"
+}
